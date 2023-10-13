@@ -1,0 +1,15 @@
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\bin\Debug\net6.0\06c.Switch.Basic.exe
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\bin\Debug\net6.0\06c.Switch.Basic.deps.json
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\bin\Debug\net6.0\06c.Switch.Basic.runtimeconfig.json
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\bin\Debug\net6.0\06c.Switch.Basic.dll
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\bin\Debug\net6.0\06c.Switch.Basic.pdb
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\obj\Debug\net6.0\06c.Switch.Basic.csproj.AssemblyReference.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\obj\Debug\net6.0\06c.Switch.Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\obj\Debug\net6.0\06c.Switch.Basic.AssemblyInfoInputs.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\obj\Debug\net6.0\06c.Switch.Basic.AssemblyInfo.cs
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\obj\Debug\net6.0\06c.Switch.Basic.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\obj\Debug\net6.0\06c.Switch.Basic.dll
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\obj\Debug\net6.0\refint\06c.Switch.Basic.dll
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\obj\Debug\net6.0\06c.Switch.Basic.pdb
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\obj\Debug\net6.0\06c.Switch.Basic.genruntimeconfig.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\ReviewCSharp\06c.Switch.Basic\obj\Debug\net6.0\ref\06c.Switch.Basic.dll
